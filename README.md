@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifhossain8612&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MdAsif-Hossain&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </p>
 
 <h3 align="center">🚀 Transforming Data into Insights & Code into Solutions</h3>
@@ -26,16 +26,16 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifhossain8612&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhossain8612&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&theme=radical&hide_border=true"/>
 </a>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifhossain8612&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -111,5 +111,5 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/asifhossain8612/asifhossain8612/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/MdAsif-Hossain/MdAsif-Hossain/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
