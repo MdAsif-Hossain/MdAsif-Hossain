@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Data+Analyst;Learning+AI+and+ML;Open+Source+Contributor" alt="Typing Effect" />
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdAsif-Hossain&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MdAsif-Hossain&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </p>
@@ -21,21 +25,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=radical"/>
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&theme=radical&hide_border=true"/>
 </a>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MdAsif-Hossain&theme=radical&layout=compact" alt="Coding Activity" />
 
 </div>
 
