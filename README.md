@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Data Analysis & Web Development**
+- 🔭 I’m currently working on **AI Engineer & Backend Web Development**
 - 🌱 I’m currently learning **Advanced AI & Machine Learning**
 - 👯 I’m looking to collaborate on **Data Science & ML Projects**
 - 📫 How to reach me: **asifhossain8612@gmail.com**
@@ -35,14 +35,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&theme=radical&hide_border=true"/>
 </a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MdAsif-Hossain&theme=radical&layout=compact" alt="Coding Activity" />
 
 </div>
 
