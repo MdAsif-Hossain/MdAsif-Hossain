@@ -26,7 +26,7 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=radical"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,7 +35,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
