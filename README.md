@@ -35,7 +35,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAsif-Hossain&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -111,5 +111,5 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/MdAsif-Hossain/MdAsif-Hossain/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/MdAsif-Hossain/MdAsif-Hossain/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
