@@ -121,7 +121,7 @@ I'm a **software engineer and AI practitioner** based in Bangladesh, actively pu
 
 <div align="center">
 
-**📬 Open to full-time roles in Germany (EU Blue Card eligible)**
+
 
 *Let's build something meaningful together.*
 
