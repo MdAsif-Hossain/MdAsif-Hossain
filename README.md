@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **software engineer and AI practitioner** based in Bangladesh, actively pursuing opportunities in Germany under the **EU Blue Card** programme. I work at the intersection of **machine learning**, **backend systems**, and **data engineering** — building end-to-end solutions from model training to production deployment.
+I'm a **software engineer and AI practitioner** based in Bangladesh. I work at the intersection of **machine learning**, **backend systems**, and **data engineering** — building end-to-end solutions from model training to production deployment.
 
 - 🤖 Currently deepening expertise in **LLMs, MLOps, and production AI systems**
 - 🏗️ Building scalable backend APIs with **Django REST Framework** and **NestJS**
