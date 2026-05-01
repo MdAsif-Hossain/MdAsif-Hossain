@@ -25,7 +25,6 @@ I'm a **software engineer and AI practitioner** based in Bangladesh. I work at t
 - 🤖 Currently deepening expertise in **LLMs, MLOps, and production AI systems**
 - 🏗️ Building scalable backend APIs with **Django REST Framework** and **NestJS**
 - 📊 Experienced in the full data pipeline: collection → cleaning → modelling → visualization
-- 🌍 Targeting **Germany** — motivated by its engineering culture and innovation ecosystem
 - 🤝 Open to collaborating on **open-source ML/data science projects**
 
 ---
