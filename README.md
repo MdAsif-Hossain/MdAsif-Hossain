@@ -30,48 +30,6 @@ I'm an **AI/ML Engineer** specializing in **generative AI**, **retrieval-augment
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 EWU AI Engine — Generative AI Policy Assistant
-A production-grade **Retrieval-Augmented Generation** system that answers natural-language policy questions over institutional documents.
-
-- Engineered a full RAG pipeline using **LLaMA** and **Mistral** open-source LLMs
-- Built end-to-end document ingestion — **PDF parsing → chunk optimization → FAISS vector indexing**
-- Implemented **HyDE** and **hybrid dense-sparse retrieval** for higher answer accuracy
-- Designed agentic query-routing workflows with **LangGraph** for multi-step reasoning
-
-**Stack:** `Python` · `LangChain` · `LangGraph` · `LLaMA` · `Mistral` · `FAISS` · `Vector DB`
-
-[`🔗 View Project`](https://github.com/MdAsif-Hossain)
-
----
-
-### 👁️ People Flow Detection & Object Tracking
-A real-time **computer vision pipeline** for crowd flow analysis and multi-object tracking.
-
-- Built a YOLO-based detection and tracking system processing live video streams
-- Generated **heatmap visualizations** translating raw frame data into actionable insights
-- Implemented spatial data processing, bounding-box regression, and scene segmentation
-
-**Stack:** `Python` · `OpenCV` · `YOLO` · `NumPy`
-
-[`🔗 View Project`](https://github.com/MdAsif-Hossain)
-
----
-
-### 🌾 Agri-Bot — Multi-Platform AI Agriculture Assistant
-A **cross-platform AI assistant** delivering context-aware agricultural recommendations through a domain-grounded RAG backend.
-
-- Built agent-based reasoning system with a domain-tuned RAG knowledge base
-- Developed **FastAPI** backend integrated with a **TypeScript** frontend
-- Architected modular APIs for scalable knowledge-base expansion
-
-**Stack:** `Python` · `TypeScript` · `FastAPI` · `RAG` · `LLM Agents`
-
-[`🔗 View Project`](https://github.com/MdAsif-Hossain)
-
----
-
 ## 🛠️ Technical Skills
 
 ### AI & Machine Learning
@@ -160,13 +118,59 @@ Expected graduation: **December 2026**
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=CDD9E5" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=CDD9E5" />
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FB923C&currStreakLabel=0EA5E9" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsif-Hossain&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&hide_border=true&area=true&area_color=0EA5E930" />
+
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![EWU AI Engine](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=EWU-AI-Engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/EWU-AI-Engine)
+&nbsp;
+[![People Flow Detection](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=People-Flow-Detection&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/People-Flow-Detection)
+
+[![Agri-Bot](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=Agri-Bot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/Agri-Bot)
+&nbsp;
+[![MdAsif-Hossain](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=MdAsif-Hossain&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/MdAsif-Hossain)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MdAsif-Hossain&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MdAsif-Hossain/MdAsif-Hossain/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -181,26 +185,6 @@ Expected graduation: **December 2026**
 | CodeChef | [`sabuktagin`](https://www.codechef.com/users/sabuktagin) | Problem Solving |
 | HackerRank | [`asifhossain8612`](https://www.hackerrank.com/asifhossain8612) | Skill Certification |
 | HackerEarth | [`@asifhossain8612`](https://www.hackerearth.com/@asifhossain8612) | Challenges |
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsif-Hossain&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MdAsif-Hossain&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-</div>
 
 ---
 
