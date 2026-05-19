@@ -86,10 +86,10 @@ I'm an **AI/ML Engineer** specializing in **generative AI**, **retrieval-augment
 
 ## 🎓 Certifications
 
-| Certification | Issuing Body | Year |
-|---|---|---|
-| **Machine Learning Specialization** | DeepLearning.AI / **Stanford University** | 2025 |
-| **Google Data Analytics Professional Certificate** | **Google** | 2024 |
+| Certification | Issuing Body | Year | Credential |
+|---|---|---|---|
+| **Machine Learning Specialization** | DeepLearning.AI / **Stanford University** | 2025 | [🔗 Verify](https://coursera.org/share/0a2e189c7dec9fb7705baab5d574a7bd) |
+| **Google Data Analytics Professional Certificate** | **Google** | 2024 | [🔗 Verify](https://coursera.org/share/6cc9c63e0773145747aa0b2313de4d4a) |
 
 ---
 
@@ -116,15 +116,22 @@ Expected graduation: **December 2026**
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5" />
+<!-- If images don't load, deploy your own: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5&cache_seconds=86400" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5&cache_seconds=86400" alt="GitHub Stats" />
+</picture>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=CDD9E5" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=CDD9E5&cache_seconds=86400" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=CDD9E5&cache_seconds=86400" alt="Top Languages" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FB923C&currStreakLabel=0EA5E9" />
+<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FB923C&currStreakLabel=0EA5E9" alt="GitHub Streak" />
 
 </div>
 
@@ -134,23 +141,7 @@ Expected graduation: **December 2026**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsif-Hossain&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&hide_border=true&area=true&area_color=0EA5E930" />
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![EWU AI Engine](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=EWU-AI-Engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/EWU-AI-Engine)
-&nbsp;
-[![People Flow Detection](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=People-Flow-Detection&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/People-Flow-Detection)
-
-[![Agri-Bot](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=Agri-Bot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/Agri-Bot)
-&nbsp;
-[![MdAsif-Hossain](https://github-readme-stats.vercel.app/api/pin/?username=MdAsif-Hossain&repo=MdAsif-Hossain&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=CDD9E5)](https://github.com/MdAsif-Hossain/MdAsif-Hossain)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsif-Hossain&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&hide_border=true&area=true&area_color=0EA5E930" alt="Contribution Graph" />
 
 </div>
 
@@ -160,17 +151,7 @@ Expected graduation: **December 2026**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MdAsif-Hossain&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MdAsif-Hossain/MdAsif-Hossain/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=MdAsif-Hossain&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
