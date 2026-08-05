@@ -166,8 +166,7 @@ Current goal        → International AI/ML engineering opportunities
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MdAsif-Hossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" alt="Md. Asif Hossain's GitHub statistics" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MdAsif-Hossain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="Md. Asif Hossain's GitHub contribution streak" />
 
 <br />
 
@@ -181,7 +180,6 @@ Current goal        → International AI/ML engineering opportunities
 |---|---|
 | **Bengali** | Native |
 | **English** | Professional proficiency — C1 |
-| **German** | Beginner — A1 |
 
 ---
 
