@@ -1,178 +1,137 @@
-# CLAUDE.md
+<div align="center">
 
-Guidance for Claude Code when working in this directory.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=210&section=header&text=Md.%20Asif%20Hossain&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descSize=17" alt="Md. Asif Hossain — AI/ML Engineer" />
 
-## What this repo is
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+reliable+AI+products;Designing+RAG+%26+multi-agent+systems;Turning+models+into+tested+applications" alt="Building reliable AI products" />
 
-The source for **Md. Asif Hossain's GitHub profile README** — the file that renders at
-`github.com/MdAsif-Hossain`. There is no application code, no build step, and no test
-suite. The only deliverable is Markdown that renders correctly on github.com.
+<br />
 
-| File | Role |
-|---|---|
-| `readme.md` | **The profile README.** This is the live file — edit this one. |
-| `README_RECRUITER.md` | Earlier draft (written by another tool). Kept only as a copy reference. Several of its image URLs are dead — do not copy them forward. |
-| `.github/workflows/snake.yml` | GitHub Action that generates the contribution-snake SVGs into the `output` branch. |
-| `CLAUDE.md` | This file. |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-asifhossain20)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifhossain8612@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sabuktagin)
 
-> To go live, the file must land in a repo named `MdAsif-Hossain/MdAsif-Hossain` as
-> `README.md` at the root. GitHub matches the name case-insensitively, so `readme.md`
-> works, but prefer `README.md` when pushing.
+![Location](https://img.shields.io/badge/Dhaka-Bangladesh-22D3EE?style=flat-square&logo=googlemaps&logoColor=white)
+![Graduation](https://img.shields.io/badge/Graduating-December_2026-A78BFA?style=flat-square&logo=graduationcap&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Applied_AI-10B981?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MdAsif-Hossain&label=Profile+Views&color=7C3AED&style=flat-square)
 
-## Facts about the owner (do not change without being told)
+</div>
 
-- **Name:** Md. Asif Hossain — **GitHub:** `MdAsif-Hossain`
-- **Title:** AI/ML Engineer — LLM & agent systems, RAG, computer vision
-- **Education:** B.Sc. Computer Science & Engineering, East West University, Dhaka. Final year, expected **December 2026**.
-- **Certifications:** Machine Learning Specialization (DeepLearning.AI / Stanford Online, 2025); Google Data Analytics Professional Certificate (Google, 2024)
-- **Languages:** Bengali (native), English (C1), German (A1)
-- **Links:** [LinkedIn](https://linkedin.com/in/md-asifhossain20) · <asifhossain8612@gmail.com> · [Kaggle](https://kaggle.com/sabuktagin)
-- **Goal:** AI/ML engineering roles, internships, and research collaborations
-- **Timezone:** Asia/Dhaka (UTC+6)
+## 👋 About me
 
-### Deliberately excluded
+I am a Computer Science and Engineering student who builds **AI systems that work beyond the notebook**. My projects connect model development with safe tool use, typed workflows, persistent data, testing, APIs, and interfaces people can actually use.
 
-**Competitive programming is out.** The owner is inactive on LeetCode, Codeforces,
-CodeChef, HackerRank, and HackerEarth. Do not re-add that section or those badges.
+```text
+AI engineering      → LLM agents, RAG, NLP, computer vision
+Product engineering → APIs, databases, interfaces, testing, CI
+Working style       → Reproducible experiments and honest evaluation
+Current goal        → International AI/ML engineering opportunities
+```
 
-**Named projects are out — for now.** The owner does not want specific repositories
-featured yet. The README sells *capabilities* ("What I build") and *engineering
-discipline* ("How I work") instead, and links to the repositories tab generically.
-Do not add project cards, repo pins, or per-project metrics unless he asks.
+## ⚡ Engineering snapshots
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>4</h3>
+      <sub><b>Collaborating agents</b><br />in the Leo tutor workflow</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>86,490</h3>
+      <sub><b>Structured records</b><br />served by the BD agent</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>10</h3>
+      <sub><b>Automated tests</b><br />protecting the tutor flow</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>~13 FPS</h3>
+      <sub><b>CPU processing</b><br />in a people-flow demo</sub>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Technology stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,django,react,nextjs,ts,postgres,mongodb,docker,git,github&perline=7" alt="Python, PyTorch, TensorFlow, OpenCV, FastAPI, Django, React, Next.js, TypeScript, PostgreSQL, MongoDB, Docker, Git, and GitHub" />
+
+<br /><br />
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-6C5CE7?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</div>
 
 <details>
-<summary>Project facts on file, for when he does want them shown</summary>
+<summary><b>View the full toolkit</b></summary>
+<br />
 
-| Project | Repo | Headline facts |
-|---|---|---|
-| Leo AI Tutor | `Multi-Agent-AI-Tutor` | 4 collaborating CrewAI agents, typed handoffs, 10 automated tests, API-key-free preview |
-| BD Knowledge Agent | `BD-Knowledge-Agent` | 3 databases / 86,490 records, SELECT-only SQL guardrails, search fallback |
-| BERT Question Answering | `Fine-Tuning-Transformers-for-Question-Answering` | SQuAD v1.1, sliding windows, official EM/F1 |
-| People Flow Detection | `People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization` | YOLOv8 + ByteTrack, IN/OUT counting, ~13 FPS on CPU |
-
-These numbers are real. Reuse them verbatim if the section is ever restored — never invent new ones.
+| Area | Technologies |
+|---|---|
+| **AI & ML** | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers |
+| **LLM systems** | LangChain, LangGraph, CrewAI, RAG, FAISS, ChromaDB |
+| **Computer vision** | OpenCV, YOLO, segmentation, object tracking, visual analytics |
+| **Backend & web** | FastAPI, Django, Streamlit, REST APIs, React, Next.js, TypeScript |
+| **Data & infrastructure** | PostgreSQL, MongoDB, MySQL, SQLite, Docker, GitHub Actions |
 
 </details>
 
-## Design system
+## 🎓 Education & credentials
 
-Keep these constant so the page reads as one thing:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>East West University</h3>
+      <p><b>B.Sc. in Computer Science & Engineering</b><br />Dhaka, Bangladesh<br />Expected graduation: <b>December 2026</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Professional certificates</h3>
+      <p>🎓 <a href="https://coursera.org/share/0a2e189c7dec9fb7705baab5d574a7bd"><b>Machine Learning Specialization</b></a><br /><sub>DeepLearning.AI and Stanford Online · 2025</sub></p>
+      <p>📊 <a href="https://coursera.org/share/6cc9c63e0773145747aa0b2313de4d4a"><b>Google Data Analytics</b></a><br /><sub>Google · 2024</sub></p>
+    </td>
+  </tr>
+</table>
 
-- **Accent gradient:** `#0EA5E9` (sky) → `#6366F1` (indigo) → `#A855F7` (violet)
-- **Primary accent text:** `#22D3EE` · **secondary:** `#A78BFA` · **success chip:** `#10B981`
-- **Card background:** `#0D1117` · **card text:** `#C9D1D9` · **card theme:** `tokyonight`
-- **Fonts in generated SVGs:** `JetBrains+Mono`
-- **Badge style:** `for-the-badge` for calls to action, `flat-square` for informational chips
-- **Section rhythm:** gradient `type=rect&height=3` divider between major sections
+## 📊 GitHub activity
 
-## ⚠️ Third-party image services: verified status
+<div align="center">
 
-Every dynamic image is a third-party request. **Most of the popular ones are dead.**
-Status below was established by direct probing — re-verify before trusting it again.
+<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="Md. Asif Hossain's GitHub contribution streak" />
 
-### Working (confirmed live, responds to uncached URLs)
+<br />
 
-| Service | Used for |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsif-Hossain&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 🌍 Communication
+
+| Language | Proficiency |
 |---|---|
-| `img.shields.io` | All badges and chips. Rock solid. |
-| `capsule-render.vercel.app` | Waving gradient header/footer, `type=rect` dividers |
-| `readme-typing-svg.demolab.com` | Animated headline typing effect |
-| `skillicons.dev` | Tech-stack icon grids (`&perline=` controls wrapping) |
-| `streak-stats.demolab.com` | Contribution streak card — serves fresh, uncached responses |
-| `komarev.com/ghpvc` | Profile view counter |
-| `Platane/snk` (Action) | Contribution snake → `output` branch |
+| **Bengali** | Native |
+| **English** | Professional proficiency — C1 |
 
-### Dead — do not use
+---
 
-| Service | Failure |
-|---|---|
-| `github-readme-stats.vercel.app` | HTTP 503 `DEPLOYMENT_PAUSED` |
-| `github-readme-stats-git-masterrstaa-rickstaa.vercel.app` | Deployment removed; returns a 480 KB Vercel HTML page, not an SVG. **This is what was rendering broken in the old READMEs.** |
-| `github-profile-summary-cards.vercel.app` | HTTP 500 `FUNCTION_INVOCATION_FAILED` on every card |
-| `github-profile-trophy.vercel.app` | HTTP 402 — quota exhausted |
-| `github-readme-activity-graph.vercel.app` | **Cache-only.** Serves a previously-cached URL fine, but any URL it hasn't cached returns a 630-byte error card reading "Can't fetch any contribution. Please check your username 😬". Every light theme currently fails. Too fragile to ship. |
+<div align="center">
 
-### Icon/logo gotchas found by probing
+### Have an AI problem worth solving?
 
-- **`logo=linkedin` no longer exists** in simple-icons (trademark removal). The badge silently
-  renders with no icon and a grey `#555` left half. The README works around this with an inline
-  base64 `data:image/svg%2Bxml` LinkedIn logo — that URL is ~900 chars, which is expected; don't
-  "clean it up". Note `svg+xml` must be written `svg%2Bxml` or the `+` decodes to a space.
-- **`logo=graduationcap` and `logo=openai` do not exist.** The graduation chip uses a 🎓 emoji
-  in the label instead.
-- **skillicons slugs that render as blank squares:** `streamlit`, `kaggle`, `huggingface`,
-  `langchain`. Use a shields badge for those instead.
-- **Verified-good skillicons slugs:** `python pytorch tensorflow sklearn opencv anaconda fastapi
-  django nodejs nestjs react nextjs ts js tailwind postgres mongodb mysql sqlite docker firebase
-  git github githubactions linux vscode java c cpp flask redis`
+I am interested in AI/ML engineering roles, research collaborations, and practical projects with real users.
 
-## Rules when editing
+[![Start a Conversation](https://img.shields.io/badge/Start_a_Conversation-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:asifhossain8612@gmail.com)
 
-1. **Never fabricate.** No invented metrics, employers, job titles, stars, or repos.
-2. **Verify every image URL before committing.** This is the whole ballgame — broken cards are
-   why the previous versions were rejected. Run the sweep below and require 100% OK.
-3. **Both themes must work.** GitHub renders on light and dark. Wrap theme-sensitive images in
-   `<picture>` with `prefers-color-scheme` sources, and give every `<img>` a real `alt`.
-   If a light-theme variant of a service is broken, drop the whole card — never ship a
-   `<picture>` whose light source is an error image.
-4. **HTML must stay GitHub-safe.** GitHub's Markdown sanitizer strips `<style>`, `<script>`,
-   CSS classes, and inline `style` attributes. Layout comes from `<table>`, `<div align>`,
-   `width`/`height` attributes, and `<details>` — nothing else.
-5. **Blank line before Markdown inside HTML.** A `<div>` wrapping Markdown needs an empty
-   line after the opening tag or the Markdown renders as literal text.
-6. **URL-encode capsule-render text.** Spaces → `%20`, `/` → `%2F`, `·` → `%C2%B7`, `&` → `%26`.
-7. **`<h2>` gets a border-bottom on GitHub.** Never use `<h2>` inside a table cell or directly
-   under a divider — use `<h3>`.
-8. **Prefer zero-dependency visuals.** The `█░` bar block and the `yaml` profile block render
-   from text alone and can never break. Reach for those before adding another remote SVG.
-9. **Recruiter-first ordering.** Positioning → what he can build → how he works → stack →
-   credentials → activity → contact.
+<sub>Thanks for visiting — let’s build useful, trustworthy AI.</sub>
 
-## Verifying a change
+<br /><br />
 
-There is nothing to run locally, but **do run this sweep** — it extracts every image URL from
-the README, cache-busts it, and fails anything that isn't a real SVG. It caught five dead
-services and four blank icons that had shipped in earlier drafts.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=110&section=footer" alt="Decorative footer" />
 
-```bash
-cd "e:/my md" && python - <<'PY'
-import io, re, subprocess, sys, os, tempfile
-sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-s = io.open("readme.md", encoding="utf-8").read()
-live = re.sub(r"<!--.*?-->", "", s, flags=re.S)          # skip commented-out blocks
-urls  = re.findall(r'(?:src|srcset)="(https?://[^"]+)"', live)
-urls += re.findall(r'!\[[^\]]*\]\((https?://[^)]+)\)', live)
-seen, out = set(), []
-for u in urls:
-    if u not in seen: seen.add(u); out.append(u)
-tmp = os.path.join(tempfile.gettempdir(), "p.bin"); bad = []
-for u in out:
-    bust = u + ("&" if "?" in u else "?") + "cbz=91"     # defeat server-side caching
-    r = subprocess.run(["curl","-s","-o",tmp,"-w","%{http_code}|%{content_type}",
-                        "-L","--max-time","45",bust], capture_output=True, text=True).stdout.strip()
-    code, ctype = (r.split("|") + ["",""])[:2]
-    size = os.path.getsize(tmp) if os.path.exists(tmp) else 0
-    body = open(tmp,"rb").read().decode("utf8","replace") if size else ""
-    err  = re.search(r"Can't fetch|went wrong|Error|not found|DEPLOYMENT", body, re.I)
-    ok = code=="200" and "image/svg" in ctype and size>400 and "<svg" in body and not err
-    if not ok: bad.append(u)
-    print(f"{'OK ' if ok else 'BAD'} {code} {size:>7}b  {re.sub(r'^https?://','',u).split('?')[0][:50]}")
-print(f"\n=== {len(out)-len(bad)} OK / {len(bad)} BAD ===")
-PY
-```
-
-To check a shields logo slug actually embeds an icon (shields returns HTTP 200 even for an
-unknown slug, silently dropping the icon):
-
-```bash
-curl -s "https://img.shields.io/badge/a-b-blue?logo=SLUG" | grep -c "<image"   # 1 = good, 0 = no icon
-```
-
-To check a skillicons slug isn't a blank square — a valid icon is well over 400 bytes, a
-missing one returns exactly 256:
-
-```bash
-curl -s "https://skillicons.dev/icons?i=SLUG" | wc -c
-```
-
-Finally, view the render in both GitHub light and dark themes before calling it done.
+</div>
