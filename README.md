@@ -1,110 +1,200 @@
-# CLAUDE.md
+<div align="center">
 
-Guidance for Claude Code when working in this directory.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=210&section=header&text=Md.%20Asif%20Hossain&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descSize=17" alt="Md. Asif Hossain — AI/ML Engineer" />
 
-## What this repo is
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+reliable+AI+products;Designing+RAG+%26+multi-agent+systems;Turning+models+into+tested+applications" alt="Building reliable AI products" />
 
-The source for **Md. Asif Hossain's GitHub profile README** — the file that renders at
-`github.com/MdAsif-Hossain`. There is no application code, no build step, and no test
-suite. The only deliverable is Markdown that renders correctly on github.com.
+<br />
 
-| File | Role |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-asifhossain20)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifhossain8612@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sabuktagin)
+
+![Location](https://img.shields.io/badge/Dhaka-Bangladesh-22D3EE?style=flat-square&logo=googlemaps&logoColor=white)
+![Graduation](https://img.shields.io/badge/Graduating-December_2026-A78BFA?style=flat-square&logo=graduationcap&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Applied_AI-10B981?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MdAsif-Hossain&label=Profile+Views&color=7C3AED&style=flat-square)
+
+</div>
+
+## 👋 About me
+
+I am a Computer Science and Engineering student who builds **AI systems that work beyond the notebook**. My projects connect model development with safe tool use, typed workflows, persistent data, testing, APIs, and interfaces people can actually use.
+
+```text
+AI engineering      → LLM agents, RAG, NLP, computer vision
+Product engineering → APIs, databases, interfaces, testing, CI
+Working style       → Reproducible experiments and honest evaluation
+Current goal        → International AI/ML engineering opportunities
+```
+
+## ⚡ Engineering snapshots
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>4</h3>
+      <sub><b>Collaborating agents</b><br />in the Leo tutor workflow</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>86,490</h3>
+      <sub><b>Structured records</b><br />served by the BD agent</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>10</h3>
+      <sub><b>Automated tests</b><br />protecting the tutor flow</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>~13 FPS</h3>
+      <sub><b>CPU processing</b><br />in a people-flow demo</sub>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/MdAsif-Hossain/Multi-Agent-AI-Tutor">Leo AI Tutor</a></h3>
+      <p>A complete learning session designed by four collaborating AI specialists.</p>
+      <p><code>CrewAI</code> <code>Pydantic</code> <code>SQLite</code> <code>Streamlit</code></p>
+      <ul>
+        <li>Typed handoffs between specialized agents</li>
+        <li>Deterministic grading and remediation</li>
+        <li>Persistent learner memory</li>
+        <li>API-key-free preview, tests, and CI</li>
+      </ul>
+      <p align="center"><a href="https://github.com/MdAsif-Hossain/Multi-Agent-AI-Tutor"><b>View repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🇧🇩 <a href="https://github.com/MdAsif-Hossain/BD-Knowledge-Agent">BD Knowledge Agent</a></h3>
+      <p>A multi-tool assistant that routes questions to databases or live web search.</p>
+      <p><code>LangChain</code> <code>FastAPI</code> <code>SQLite</code> <code>Docker</code></p>
+      <ul>
+        <li>Three databases with 86,490 records</li>
+        <li>Read-only, SELECT-only SQL safeguards</li>
+        <li>Automatic search fallback</li>
+        <li>Web UI, CLI, tests, and CI</li>
+      </ul>
+      <p align="center"><a href="https://github.com/MdAsif-Hossain/BD-Knowledge-Agent"><b>View repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔎 <a href="https://github.com/MdAsif-Hossain/Fine-Tuning-Transformers-for-Question-Answering">BERT Question Answering</a></h3>
+      <p>A reproducible extractive-QA pipeline using BERT and SQuAD v1.1.</p>
+      <p><code>PyTorch</code> <code>Transformers</code> <code>SQuAD</code> <code>Colab</code></p>
+      <ul>
+        <li>Character-to-token answer alignment</li>
+        <li>Overlapping windows for long contexts</li>
+        <li>Official Exact Match and F1 evaluation</li>
+        <li>Honest quick/full experiment modes</li>
+      </ul>
+      <p align="center"><a href="https://github.com/MdAsif-Hossain/Fine-Tuning-Transformers-for-Question-Answering"><b>View repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ <a href="https://github.com/MdAsif-Hossain/People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization">People Flow Detection</a></h3>
+      <p>Video analytics for person tracking, directional counting, and heatmaps.</p>
+      <p><code>YOLOv8</code> <code>ByteTrack</code> <code>OpenCV</code> <code>Python</code></p>
+      <ul>
+        <li>Persistent identities across frames</li>
+        <li>IN/OUT line-crossing logic</li>
+        <li>Duplicate-count protection</li>
+        <li>Foot-traffic density visualization</li>
+      </ul>
+      <p align="center"><a href="https://github.com/MdAsif-Hossain/People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization"><b>View repository →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdAsif-Hossain?tab=repositories)
+
+</div>
+
+## 🧰 Technology stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,django,react,nextjs,ts,postgres,mongodb,docker,git,github&perline=7" alt="Python, PyTorch, TensorFlow, OpenCV, FastAPI, Django, React, Next.js, TypeScript, PostgreSQL, MongoDB, Docker, Git, and GitHub" />
+
+<br /><br />
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-6C5CE7?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>View the full toolkit</b></summary>
+<br />
+
+| Area | Technologies |
 |---|---|
-| `readme.md` | **The profile README.** This is the live file — edit this one. |
-| `README_RECRUITER.md` | Earlier recruiter-focused draft. Kept as reference for project copy/metrics. Not rendered anywhere. |
-| `.github/workflows/snake.yml` | GitHub Action that generates the contribution-snake SVGs into the `output` branch. |
-| `CLAUDE.md` | This file. |
+| **AI & ML** | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers |
+| **LLM systems** | LangChain, LangGraph, CrewAI, RAG, FAISS, ChromaDB |
+| **Computer vision** | OpenCV, YOLO, segmentation, object tracking, visual analytics |
+| **Backend & web** | FastAPI, Django, Streamlit, REST APIs, React, Next.js, TypeScript |
+| **Data & infrastructure** | PostgreSQL, MongoDB, MySQL, SQLite, Docker, GitHub Actions |
 
-> To go live, the file must land in a repo named `MdAsif-Hossain/MdAsif-Hossain` as
-> `README.md` at the root. GitHub matches the name case-insensitively, so `readme.md`
-> works, but prefer `README.md` when pushing.
+</details>
 
-## Facts about the owner (do not change without being told)
+## 🎓 Education & credentials
 
-- **Name:** Md. Asif Hossain — **GitHub:** `MdAsif-Hossain`
-- **Title:** AI/ML Engineer — generative AI, LLM/agent systems, RAG, computer vision
-- **Education:** B.Sc. Computer Science & Engineering, East West University, Dhaka. Expected **December 2026**.
-- **Certifications:** Machine Learning Specialization (DeepLearning.AI / Stanford Online, 2025); Google Data Analytics Professional Certificate (Google, 2024)
-- **Languages:** Bengali (native), English (C1), German (A1)
-- **Links:** [LinkedIn](https://linkedin.com/in/md-asifhossain20) · <asifhossain8612@gmail.com> · [Kaggle](https://kaggle.com/sabuktagin)
-- **Goal:** international AI/ML engineering roles and research collaborations
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>East West University</h3>
+      <p><b>B.Sc. in Computer Science & Engineering</b><br />Dhaka, Bangladesh<br />Expected graduation: <b>December 2026</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Professional certificates</h3>
+      <p>🎓 <a href="https://coursera.org/share/0a2e189c7dec9fb7705baab5d574a7bd"><b>Machine Learning Specialization</b></a><br /><sub>DeepLearning.AI and Stanford Online · 2025</sub></p>
+      <p>📊 <a href="https://coursera.org/share/6cc9c63e0773145747aa0b2313de4d4a"><b>Google Data Analytics</b></a><br /><sub>Google · 2024</sub></p>
+    </td>
+  </tr>
+</table>
 
-### Deliberately excluded
+## 📊 GitHub activity
 
-**Competitive programming is out.** The owner is inactive on LeetCode, Codeforces,
-CodeChef, HackerRank, and HackerEarth. Do not re-add that section or those badges,
-even though they appear in git history and in older drafts.
+<div align="center">
 
-## The four featured projects
+<img src="https://streak-stats.demolab.com?user=MdAsif-Hossain&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="Md. Asif Hossain's GitHub contribution streak" />
 
-Real repos, real numbers. Reuse these figures verbatim — never invent new metrics.
+<br />
 
-| Project | Repo | Headline facts |
-|---|---|---|
-| Leo AI Tutor | `Multi-Agent-AI-Tutor` | 4 collaborating CrewAI agents, typed handoffs, 10 automated tests, API-key-free preview |
-| BD Knowledge Agent | `BD-Knowledge-Agent` | 3 databases / 86,490 records, SELECT-only SQL guardrails, search fallback |
-| BERT Question Answering | `Fine-Tuning-Transformers-for-Question-Answering` | SQuAD v1.1, sliding windows, official EM/F1 |
-| People Flow Detection | `People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization` | YOLOv8 + ByteTrack, IN/OUT counting, ~13 FPS on CPU |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsif-Hossain&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
-## Design system
+</div>
 
-Keep these constant so the page reads as one thing:
+## 🌍 Communication
 
-- **Accent gradient:** `#0EA5E9` (sky) → `#6366F1` (indigo) → `#A855F7` (violet)
-- **Primary accent text:** `#22D3EE` · **secondary:** `#A78BFA` · **success chip:** `#10B981`
-- **Card background:** `#0D1117` · **card text:** `#C9D1D9` · **card theme:** `tokyonight`
-- **Fonts in generated SVGs:** `JetBrains+Mono`
-- **Badge style:** `for-the-badge` for calls to action, `flat-square` for informational chips
-
-### Animation / dynamic services in use
-
-| Service | Used for |
+| Language | Proficiency |
 |---|---|
-| `capsule-render.vercel.app` | Waving gradient header and footer banners |
-| `readme-typing-svg.demolab.com` | Animated headline typing effect |
-| `skillicons.dev` | Tech-stack icon grids (`&perline=` controls wrapping) |
-| `github-readme-stats-git-masterrstaa-rickstaa.vercel.app` | Stats + top-languages cards (community mirror — used because the canonical instance rate-limits) |
-| `streak-stats.demolab.com` | Contribution streak card |
-| `github-readme-activity-graph.vercel.app` | Contribution line graph |
-| `komarev.com/ghpvc` | Profile view counter |
-| `Platane/snk` (Action) | Contribution snake, published to the `output` branch |
+| **Bengali** | Native |
+| **English** | Professional proficiency — C1 |
 
-**Known dead:** `github-profile-trophy.vercel.app` returned HTTP 402 (quota exhausted) as of
-the last check, so the trophy row was removed. Don't re-add it without curling the URL first.
+---
 
-**Valid shields logo slugs used here:** `linkedin`, `gmail`, `kaggle`, `github`, `googlemaps`,
-`handshake`, `minutemailer`, `langchain`, `huggingface`, `pydantic`, `sqlite`, `streamlit`,
-`fastapi`, `docker`, `pytorch`, `googlecolab`, `yolo`, `opencv`, `python`. There is **no**
-`graduationcap` slug — that badge uses a 🎓 emoji in the label instead.
+<div align="center">
 
-## Rules when editing
+### Have an AI problem worth solving?
 
-1. **Never fabricate.** No invented metrics, employers, job titles, stars, or repos. Every
-   number must trace back to the table above or to something the owner stated.
-2. **Both themes must work.** GitHub renders on light and dark. Wrap theme-sensitive images in
-   `<picture>` with `prefers-color-scheme` sources, and give every `<img>` a real `alt`.
-3. **HTML must stay GitHub-safe.** GitHub's Markdown sanitizer strips `<style>`, `<script>`,
-   CSS classes, and inline `style` attributes. Layout comes from `<table>`, `<div align>`,
-   `width`/`height` attributes, and `<details>` — nothing else.
-4. **Blank line before Markdown inside HTML.** A `<div>` wrapping Markdown needs an empty
-   line after the opening tag or the Markdown renders as literal text.
-5. **URL-encode capsule-render text.** Spaces → `%20`, `/` → `%2F`, `·` → `%C2%B7`, `&` → `%26`.
-6. **Budget the images, and curl before you commit.** Every dynamic SVG is a third-party
-   request that can be slow or dead. Stay near the current count; if adding one, consider
-   dropping one. Verify any new or changed image URL with
-   `curl -s -o /dev/null -w '%{http_code} %{content_type}' -L "<url>"` — expect `200` and an
-   image content type. Shields returns `200` even for an unknown `logo=` slug (it just drops
-   the icon), so also confirm the SVG body contains an `<image` element.
-7. **Recruiter-first ordering.** Who he is → proof of work (projects) → stack → credentials →
-   activity stats. Vanity metrics never outrank projects.
-8. **Keep it scannable.** A recruiter gives this ~30 seconds. Short lines, strong headings,
-   collapse depth into `<details>`.
+I am interested in AI/ML engineering roles, research collaborations, and practical projects with real users.
 
-## Verifying a change
+[![Start a Conversation](https://img.shields.io/badge/Start_a_Conversation-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:asifhossain8612@gmail.com)
 
-There is nothing to run locally. To check work:
+<sub>Thanks for visiting — let’s build useful, trustworthy AI.</sub>
 
-- Paste the file into a GitHub gist or a scratch repo's README and view the rendered result.
-- Open each dynamic image URL directly in a browser to confirm it returns an image, not an
-  error page.
-- Check the render in both GitHub light and dark themes.
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=110&section=footer" alt="Decorative footer" />
+
+</div>
